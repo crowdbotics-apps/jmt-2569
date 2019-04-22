@@ -1,0 +1,3 @@
+rootProject.name = 'jmt_2569'
+
+include ':app'
